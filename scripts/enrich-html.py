@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "book"
 BASE = "https://neilydhan.github.io/Mastering-Blockchain-Scalability/"
-REPO = "https://github.com/neilydhan/Blockchain-Scalability-Book"
+REPO = "https://github.com/neilydhan/Mastering-Blockchain-Scalability"
 DESC = "A mechanism-first guide to blockchain scalability, security, trust, and recovery."
 
 if not (OUT / "index.html").exists():

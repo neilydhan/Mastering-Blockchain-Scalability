@@ -7,13 +7,13 @@ title = "Mastering Blockchain Scalability"
 description = "A mechanism-first guide to blockchain scalability, security, trust, and recovery"
 
 [output.html]
-site-url = "/Blockchain-Scalability-Book/"
+site-url = "/Mastering-Blockchain-Scalability/"
 additional-css = ["theme/print.css"]
 additional-js = ["theme/analytics.js"]
 default-theme = "light"
 preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/neilydhan/Blockchain-Scalability-Book"
-edit-url-template = "https://github.com/neilydhan/Blockchain-Scalability-Book/edit/main/{path}"
+git-repository-url = "https://github.com/neilydhan/Mastering-Blockchain-Scalability"
+edit-url-template = "https://github.com/neilydhan/Mastering-Blockchain-Scalability/edit/main/{path}"
 print = { enable = true }
 
 [build]

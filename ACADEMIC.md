@@ -63,7 +63,7 @@ Protocol details change. Course staff should check cited specifications, reposit
 
 ## Review Copies and Course Use
 
-The free versioned release is the instructor review copy: https://github.com/neilydhan/Blockchain-Scalability-Book/releases/latest
+The free versioned release is the instructor review copy: https://github.com/neilydhan/Mastering-Blockchain-Scalability/releases/latest
 
 For a syllabus review, correction, or course-adoption discussion, open a GitHub issue with the label or title prefix `course adoption`. Do not include student personal data or private course records. A private instructor contact route will be added only after the author approves its account and data-handling process.
 
